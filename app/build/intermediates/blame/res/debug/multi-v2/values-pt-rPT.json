@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\nandi\\Desktop\\travelPlus_gitHub\\csc780_sfsu_final_proj\\travel+\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nandi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-16.0.0.aar\\2df12b7381aa5efbccf8c230f0251348\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "197,299",
+                        "endColumns": "101,94",
+                        "endOffsets": "298,393"
+                    },
+                    "to": {
+                        "startLines": "37,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "4757,4863",
+                        "endColumns": "105,98",
+                        "endOffsets": "4858,4957"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nandi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\8b915d689fa0b1e84b5311182b00241b\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,400,508,631,737,844,933,1034,1158,1245,1352,1464,1566,1674,1781,1888,2010,2109",
+                        "endColumns": "119,107,122,105,106,88,100,123,86,106,111,101,107,106,106,121,98,100",
+                        "endOffsets": "395,503,626,732,839,928,1029,1153,1240,1347,1459,1561,1669,1776,1883,2005,2104,2205"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,333,456,562,669,758,859,983,1070,1177,1289,1391,1499,1606,1713,1835,4962",
+                        "endColumns": "119,107,122,105,106,88,100,123,86,106,111,101,107,106,106,121,98,100",
+                        "endOffsets": "220,328,451,557,664,753,854,978,1065,1172,1284,1386,1494,1601,1708,1830,1929,5058"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nandi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\3c22840bda6ff3439f2f7f133211aa32\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "249,352,547,673,779,1006,1132,1280,1414,1661,1767,1968,2097,2315,2519,2613,2708",
+                        "endColumns": "102,194,125,105,226,125,147,133,246,105,200,128,217,203,93,94,111",
+                        "endOffsets": "351,546,672,778,1005,1131,1279,1413,1660,1766,1967,2096,2314,2518,2612,2707,2819"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1934,2041,2236,2366,2476,2703,2833,2985,3327,3574,3684,3885,4018,4236,4444,4542,4641",
+                        "endColumns": "106,194,129,109,226,129,151,137,246,109,200,132,217,207,97,98,115",
+                        "endOffsets": "2036,2231,2361,2471,2698,2828,2980,3118,3569,3679,3880,4013,4231,4439,4537,4636,4752"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nandi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\f622a5253245231556cc10b59d3f03f5\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3123",
+                        "endColumns": "203",
+                        "endOffsets": "3322"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "121107113394",
+    "firebase_url": "https://travel-plus-f51ef.firebaseio.com",
+    "project_id": "travel-plus-f51ef",
+    "storage_bucket": "travel-plus-f51ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121107113394:android:e600be4ac3d3b10c",
+        "android_client_info": {
+          "package_name": "travel.csc780.sfsu.edu.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121107113394-a7trmjtka9lhqmsq5r4k1bocc95k013s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travel.csc780.sfsu.edu.travel",
+            "certificate_hash": "f900c2dd62440bf456f737a21af79c51c1579f03"
+          }
+        },
+        {
+          "client_id": "121107113394-gkoh9g939n31s9ftj5d9lpoa7sv8h1so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tSMdRBsakbc6hhnU7AFC9JwD4F9JSNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121107113394-gkoh9g939n31s9ftj5d9lpoa7sv8h1so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121107113394:android:a9297ab017c80dac",
+        "android_client_info": {
+          "package_name": "travel.csc780.sfsu.edu.travel_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121107113394-grtdbvd2cedonja7r89tv1m1hqg22mle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travel.csc780.sfsu.edu.travel_plus",
+            "certificate_hash": "f900c2dd62440bf456f737a21af79c51c1579f03"
+          }
+        },
+        {
+          "client_id": "121107113394-gkoh9g939n31s9ftj5d9lpoa7sv8h1so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tSMdRBsakbc6hhnU7AFC9JwD4F9JSNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121107113394-gkoh9g939n31s9ftj5d9lpoa7sv8h1so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

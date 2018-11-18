@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">121107113394-gkoh9g939n31s9ftj5d9lpoa7sv8h1so.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://travel-plus-f51ef.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">121107113394</string>
+    <string name="google_api_key" translatable="false">AIzaSyC2tSMdRBsakbc6hhnU7AFC9JwD4F9JSNY</string>
+    <string name="google_app_id" translatable="false">1:121107113394:android:e600be4ac3d3b10c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2tSMdRBsakbc6hhnU7AFC9JwD4F9JSNY</string>
+    <string name="google_storage_bucket" translatable="false">travel-plus-f51ef.appspot.com</string>
+    <string name="project_id" translatable="false">travel-plus-f51ef</string>
+</resources>
